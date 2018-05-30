@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Locatr</string>
+    <string name="search">Find a image near you</string>
+    <string name="reason">Locatr使用定位数据来寻找你附近发布的Flickr照片</string>
+</resources>
